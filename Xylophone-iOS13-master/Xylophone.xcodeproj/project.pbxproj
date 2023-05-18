@@ -21,6 +21,7 @@
 		ADE587F722CB513D007F0F9A /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F022CB513D007F0F9A /* F.wav */; };
 		ADE587F822CB513D007F0F9A /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F122CB513D007F0F9A /* B.wav */; };
 		ADE587F922CB513D007F0F9A /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F222CB513D007F0F9A /* D.wav */; };
+		D4C3150B2A07981200668991 /* oceans.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D4C3150A2A07981200668991 /* oceans.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		ADE587F022CB513D007F0F9A /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
 		ADE587F122CB513D007F0F9A /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
 		ADE587F222CB513D007F0F9A /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		D4C3150A2A07981200668991 /* oceans.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oceans.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		ADE587FA22CB5141007F0F9A /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				D4C3150A2A07981200668991 /* oceans.mp3 */,
 				ADE587EE22CB513C007F0F9A /* C.wav */,
 				ADE587F222CB513D007F0F9A /* D.wav */,
 				ADE587EF22CB513D007F0F9A /* E.wav */,
@@ -166,6 +169,7 @@
 				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
 				ADE587F822CB513D007F0F9A /* B.wav in Resources */,
 				ADE587F322CB513D007F0F9A /* A.wav in Resources */,
+				D4C3150B2A07981200668991 /* oceans.mp3 in Resources */,
 				ADE587F622CB513D007F0F9A /* E.wav in Resources */,
 				AD937BFD22C61DBB002E2D88 /* Main.storyboard in Resources */,
 			);
